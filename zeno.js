@@ -1,3 +1,3 @@
 {
-  "password":"drayslebew"
+  "password": ["drayslebew"]
 }
